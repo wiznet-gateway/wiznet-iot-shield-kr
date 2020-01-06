@@ -1,4 +1,4 @@
-# Cat.M1장치의 SKT ThingPlug 연동 가이드
+# Cat.M1장치의 SKT ThingPlug 연동 가이드(2019년 6월 1일 이후 신규가입X)
 
 ## 목차
 
